@@ -16,36 +16,32 @@ Check out my portfolio here: [my-portfolio](https://kopiika.github.io/frontend-p
 
 | Project | Description | Demo | Code |
 |---------|-------------|------|------|
-| Phonebook App | Fullstack React + Node.js/Express | [Live](https://fullstack-open-course-zqns.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
+| Phonebook App | Fullstack React + Node.js/Express | [Live](https://fullstack-open-course-zqns.onrender.com/) | [GitHub](https://github.com/Kopiika/fullstack_open_course/tree/main/part3/phonebook-backend) |
 | HR App | React HR management app with JSON Server backend | [Live](https://hrapp-xsbf.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
 | Countries App | React app displaying country data from external API | [Live](https://kopiika.github.io/countries-app/) | [GitHub](https://github.com/Kopiika/countries-app) |
-| CookUp website | WordPress + PHP | in progress... | [GitHub](https://github.com/Kopiika/cokup-wordpress-site) |
-| Phonebook App | Fullstack React + Node.js/Express | [Live](https://fullstack-open-course-zqns.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
+| Find Your Community website | WordPress + PHP | - | [GitHub](https://github.com/Kopiika/cokup-wordpress-site) |
+| CookUp website | WordPress + PHP | [Live](https://findcommunity.great-site.net/) | [GitHub]([https://github.com/Kopiika/cokup-wordpress-site](https://github.com/Nyukaa/AppEvent)) |
 
 
 ---
 
 
 ## 🛠️ Skills & Tools
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -57,6 +53,8 @@ Check out my portfolio here: [my-portfolio](https://kopiika.github.io/frontend-p
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-2ECC71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleonora.kopiika@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-kopiika/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlesites&logoColor=white)](https://kopiika.github.io/frontend-portfolio/)
+
 
 
 
