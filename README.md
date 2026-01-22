@@ -52,6 +52,12 @@ Away from the keyboard? I'm likely in the woods, tea in hand, sweating in a saun
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-kopiika/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlesites&logoColor=white)](https://kopiika.github.io/frontend-portfolio/)
 
+---
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
+
 
 
 
