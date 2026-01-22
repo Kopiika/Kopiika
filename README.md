@@ -54,8 +54,8 @@ Away from the keyboard? I'm likely in the woods, tea in hand, sweating in a saun
 
 ---
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kopiika&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kopiika&theme=radical)
 
 
 
