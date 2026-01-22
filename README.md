@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Eleonora+%F0%9F%91%8B;Beginner+Web+Developer;Aspiring+Full+Stack+Engineer;Passionate+about+Learning+and+Growth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Eleonora+%F0%9F%91%8B;Junior+Web+Developer;Aspiring+Full+Stack+Engineer;Passionate+about+Learning+and+Growth)](https://git.io/typing-svg)
 
 ---
 
@@ -55,10 +55,8 @@ Check out my portfolio here: [my-portfolio](https://kopiika.github.io/frontend-p
 ---
 
 ## 📫 Contact
-![Email](https://img.shields.io/badge/Email-2ECC71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleonora.kopiika@gmail.com)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-kopiika/)  
-[Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white) 
+[![Email](https://img.shields.io/badge/Email-2ECC71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleonora.kopiika@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-kopiika/)  
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your.email@example.com)  
 
 
