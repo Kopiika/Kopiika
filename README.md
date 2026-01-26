@@ -21,8 +21,8 @@ Away from the keyboard? I'm likely in the woods, tea in hand, sweating in a saun
 | Phonebook App | Fullstack React + Node.js/Express | [Live](https://fullstack-open-course-zqns.onrender.com/) | [GitHub](https://github.com/Kopiika/fullstack_open_course/tree/main/part3/phonebook-backend) |
 | HR App | React HR management app with JSON Server backend | [Live](https://hrapp-xsbf.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
 | Countries App | React app displaying country data from external API | [Live](https://kopiika.github.io/countries-app/) | [GitHub](https://github.com/Kopiika/countries-app) |
-| Find Your Community website | WordPress + PHP | - | [GitHub](https://github.com/Kopiika/cokup-wordpress-site) |
-| CookUp website | WordPress + PHP | [Live](https://findcommunity.great-site.net/) | [GitHub]([https://github.com/Kopiika/cokup-wordpress-site](https://github.com/Nyukaa/AppEvent)) |
+| Find Your Community website | WordPress + PHP | [Live](https://findcommunity.great-site.net/) | [GitHub](https://github.com/Nyukaa/AppEvent) |
+| CookUp website | WordPress + PHP | - | [GitHub](https://github.com/Kopiika/cokup-wordpress-site) |
 
 
 ---
