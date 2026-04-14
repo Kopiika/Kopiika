@@ -3,14 +3,16 @@
 ---
 
 ## 👩‍💻 About Me
-I am a motivated junior Full Stack Web Developer with a strong foundation in modern web technologies and a passion for building clean, user-friendly applications. I work with HTML, CSS, JavaScript, and React on the frontend, and have hands-on experience with Node.js, Express, REST APIs, authentication, and databases on the backend.
 
-I have completed the first seven parts of the University of Helsinki’s Full Stack Open course, gaining practical experience building, testing, and integrating full stack applications. I am currently studying **Software Development** at **Business College Helsinki**, further strengthening my frontend and backend skills.
-I am comfortable working with Git, GitHub, API testing tools, and have a basic understanding of CI/CD processes.
+Junior Full Stack Developer building clean, user-friendly web apps with **React**, **Node.js**, and **MongoDB**.
 
-Check out my portfolio here: [my-portfolio](https://kopiika.github.io/frontend-portfolio/) 🌐 
+🎓 Completed [Full Stack Open](https://fullstackopen.com/) (parts 1–7) — University of Helsinki  
+📚 Currently studying Software Development at **Business College Helsinki**  
+📍 Based in Finland
 
-Away from the keyboard? I'm likely in the woods, tea in hand, sweating in a sauna, or butchering Finnish verbs. 😄
+Away from the keyboard? Probably hiking, drinking tea, or butchering Finnish verbs 🇫🇮
+
+➡️ [View my portfolio](https://kopiika.github.io/frontend-portfolio/)
 
 ---
 
@@ -18,11 +20,11 @@ Away from the keyboard? I'm likely in the woods, tea in hand, sweating in a saun
 
 | Project | Description | Demo | Code |
 |---------|-------------|------|------|
-|Finance Planner — Fullstack personal finance tracker | React 19, MUI, Node.js/Express/MongoDB, voice input via Gemini AI | [Live](https://my-finance-planner.onrender.com/) | [GitHub](https://github.com/Kopiika/personal-finance-planner) |
-| Fullstack Blog List SPA | React, Redux, MUI & Node.js/Express/MongoDB | [Live](https://bloglist-app-l0mi.onrender.com) | [GitHub](https://github.com/Kopiika/fullstack_open_course/tree/main/part7/bloglist-exercises/bloglist-backend) |
-| HR App | React HR management app with JSON Server backend | [Live](https://hrapp-xsbf.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
-| Find Your Community website | WordPress + PHP | [Live](https://findcommunity.great-site.net/) | [GitHub](https://github.com/Nyukaa/AppEvent) |
-| Multi-step Form | Responsive form with step navigation, validation & dynamic UI | [Live](https://kopiika.github.io/multi-step-form/) | [GitHub](https://github.com/Kopiika/multi-step-form) |
+| Finance Planner | Fullstack finance tracker with voice input via Gemini AI — React 19, MUI, Node.js, MongoDB | [Live](https://my-finance-planner.onrender.com/) | [GitHub](https://github.com/Kopiika/personal-finance-planner) |
+| Blog List SPA | Blog platform with auth, likes & comments — React, Redux, Node.js, MongoDB | [Live](https://bloglist-app-l0mi.onrender.com) | [GitHub](https://github.com/Kopiika/fullstack_open_course/tree/main/part7/bloglist-exercises/bloglist-backend) |
+| HR App | Employee management dashboard — React, JSON Server, custom hooks | [Live](https://hrapp-xsbf.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
+| Multi-step Form | Responsive wizard form with validation & step navigation | [Live](https://kopiika.github.io/multi-step-form/) | [GitHub](https://github.com/Kopiika/multi-step-form) |
+| Find Your Community | Group project — community platform with React filtering — WordPress, PHP | [Live](https://findcommunity.great-site.net/) | [GitHub](https://github.com/Nyukaa/AppEvent) |
 
 ---
 
@@ -30,6 +32,7 @@ Away from the keyboard? I'm likely in the woods, tea in hand, sweating in a saun
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
