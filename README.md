@@ -7,7 +7,8 @@
 Junior Full Stack Developer building clean, user-friendly web apps with **React**, **Node.js**, and **MongoDB**.
 
 🎓 Completed [Full Stack Open](https://fullstackopen.com/) (parts 1–7) — University of Helsinki  
-📚 Currently studying Software Development at **Business College Helsinki**  
+📚 Currently studying Software Development at **Business College Helsinki**
+💼 Practical training at **Ellarion Tales Oy**  
 📍 Based in Finland
 
 Away from the keyboard? Probably hiking, drinking tea, or butchering Finnish verbs 🇫🇮
@@ -24,7 +25,6 @@ Away from the keyboard? Probably hiking, drinking tea, or butchering Finnish ver
 | Blog List SPA | Blog platform with auth, likes & comments — React, Redux, Node.js, MongoDB | [Live](https://bloglist-app-l0mi.onrender.com) | [GitHub](https://github.com/Kopiika/fullstack_open_course/tree/main/part7/bloglist-exercises/bloglist-backend) |
 | HR App | Employee management dashboard — React, JSON Server, custom hooks | [Live](https://hrapp-xsbf.onrender.com/) | [GitHub](https://github.com/Kopiika/hrApp) |
 | Multi-step Form | Responsive wizard form with validation & step navigation | [Live](https://kopiika.github.io/multi-step-form/) | [GitHub](https://github.com/Kopiika/multi-step-form) |
-| Find Your Community | Group project — community platform with React filtering — WordPress, PHP | [Live](https://findcommunity.great-site.net/) | [GitHub](https://github.com/Nyukaa/AppEvent) |
 
 ---
 
@@ -39,8 +39,7 @@ Away from the keyboard? Probably hiking, drinking tea, or butchering Finnish ver
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-2ECC71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleonora.kopiika@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-kopiika/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlesites&logoColor=white)](https://kopiika.github.io/frontend-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-kopiika/)
 
 
 
