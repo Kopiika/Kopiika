@@ -30,10 +30,11 @@ Away from the keyboard? Probably hiking, drinking tea, or butchering Finnish ver
 
 ## 🛠️ Skills & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
-- **Backend:** Node.js, Express, REST APIs  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools:** Git, Postman, Jest
+**Frontend:** React, TypeScript, JavaScript, Redux, React Query, Tailwind CSS, Material-UI, HTML, CSS  
+**Backend:** Node.js, Express, REST APIs, JWT  
+**Databases:** MongoDB, PostgreSQL  
+**Testing:** Jest, React Testing Library, Playwright  
+**Tools:** Git, Vite, Figma, Postman, CI/CD
 
 ---
 
